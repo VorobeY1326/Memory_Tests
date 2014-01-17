@@ -1,0 +1,4 @@
+D:\Документы\Программирование\ОСи2\Last\LastTask\4_Matrix\bin\Debug\4_Matrix.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\4_Matrix\bin\Debug\4_Matrix.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\4_Matrix\obj\x86\Debug\4_Matrix.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\4_Matrix\obj\x86\Debug\4_Matrix.pdb

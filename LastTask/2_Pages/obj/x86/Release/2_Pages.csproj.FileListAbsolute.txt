@@ -1,0 +1,4 @@
+D:\Документы\Программирование\ОСи2\Last\LastTask\2_Pages\bin\Release\2_Pages.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\2_Pages\bin\Release\2_Pages.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\2_Pages\obj\x86\Release\2_Pages.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\2_Pages\obj\x86\Release\2_Pages.pdb

@@ -1,0 +1,4 @@
+D:\Документы\Программирование\ОСи2\Last\LastTask\LastTask\bin\Debug\LastTask.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\LastTask\bin\Debug\LastTask.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\LastTask\obj\x86\Debug\LastTask.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\LastTask\obj\x86\Debug\LastTask.pdb

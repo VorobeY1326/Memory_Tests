@@ -1,0 +1,11 @@
+D:\Документы\Программирование\ОСи2\Last\LastTask\LastTask\bin\Debug\LastTask.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\LastTask\bin\Debug\LastTask.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\LastTask\obj\x86\Debug\LastTask.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\LastTask\obj\x86\Debug\LastTask.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\obj\x86\Debug\LastTask.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\obj\x86\Debug\LastTask.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\bin\Debug\LastTask.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\bin\Debug\LastTask.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\bin\Debug\1_Multiple_Common.dll
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\bin\Debug\1_Multiple_Common.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\obj\x86\Debug\1_Multiple_Main.csprojResolveAssemblyReference.cache

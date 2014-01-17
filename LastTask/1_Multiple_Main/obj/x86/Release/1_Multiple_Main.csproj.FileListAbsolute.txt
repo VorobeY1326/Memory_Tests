@@ -1,0 +1,6 @@
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\bin\Release\LastTask.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\bin\Release\LastTask.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\bin\Release\1_Multiple_Common.dll
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\bin\Release\1_Multiple_Common.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\obj\x86\Release\LastTask.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Main\obj\x86\Release\LastTask.pdb

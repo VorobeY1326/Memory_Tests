@@ -1,0 +1,4 @@
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Common\bin\Release\1_Multiple_Common.dll
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Common\bin\Release\1_Multiple_Common.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Common\obj\Release\1_Multiple_Common.dll
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Common\obj\Release\1_Multiple_Common.pdb

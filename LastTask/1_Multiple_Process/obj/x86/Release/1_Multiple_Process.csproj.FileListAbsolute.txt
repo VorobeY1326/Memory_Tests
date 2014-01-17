@@ -1,0 +1,7 @@
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Process\bin\Release\1_Multiple_Process.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Process\bin\Release\1_Multiple_Process.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Process\bin\Release\1_Multiple_Common.dll
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Process\bin\Release\1_Multiple_Common.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Process\obj\x86\Release\1_Multiple_Process.csprojResolveAssemblyReference.cache
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Process\obj\x86\Release\1_Multiple_Process.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\1_Multiple_Process\obj\x86\Release\1_Multiple_Process.pdb

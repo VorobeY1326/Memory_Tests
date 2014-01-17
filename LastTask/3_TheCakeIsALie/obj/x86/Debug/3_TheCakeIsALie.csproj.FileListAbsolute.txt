@@ -1,0 +1,4 @@
+D:\Документы\Программирование\ОСи2\Last\LastTask\3_TheCakeIsALie\bin\Debug\3_TheCakeIsALie.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\3_TheCakeIsALie\bin\Debug\3_TheCakeIsALie.pdb
+D:\Документы\Программирование\ОСи2\Last\LastTask\3_TheCakeIsALie\obj\x86\Debug\3_TheCakeIsALie.exe
+D:\Документы\Программирование\ОСи2\Last\LastTask\3_TheCakeIsALie\obj\x86\Debug\3_TheCakeIsALie.pdb
